@@ -32,6 +32,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Update kanka.m3u"
+            git commit -m "Update test.m3u"
             git push
           fi
