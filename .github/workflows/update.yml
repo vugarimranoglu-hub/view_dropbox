@@ -1,4 +1,4 @@
-name: Update test.m3u
+name: Update kanka.m3u
 
 on:
   schedule:
@@ -27,11 +27,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add test.m3u
+          git add kanka.m3u
 
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Update test.m3u"
+            git commit -m "Update kanka.m3u"
             git push
           fi
