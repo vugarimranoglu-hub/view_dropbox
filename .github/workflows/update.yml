@@ -1,4 +1,4 @@
-name: Update kanka.m3u
+name: Update test.m3u
 
 on:
   schedule:
