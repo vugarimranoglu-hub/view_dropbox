@@ -664,9 +664,9 @@ http://umperisn.mywire.org/index.php?id=594212&token=DeaTHLesS
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SQYS8fVt/In-Shot-20260112-110722480.png" group-title="Türkiyə",FLASH HABER ᵏᵃᵑᵏᵃ
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/hG4xP5Lx/In-Shot-20260112-111559893.png" group-title="Türkiyə",CNN TÜRK ᵏᵃᵑᵏᵃ
-http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS
+http://82.70.45.131/Uyan.php?ID=CNN Turk
 #EXTINF:0 tvg-logo="https://i.postimg.cc/0QB740Jm/In-Shot-20260112-112226594.png" group-title="Türkiyə",AKİT TV ᵏᵃᵑᵏᵃ
-http://umperisn.mywire.org/index.php?id=594236&token=DeaTHLesS
+http://82.70.45.131/Uyan.php?ID=Akit TV
 #EXTINF:0 tvg-logo="https://i.postimg.cc/ZKhLzjMx/In-Shot-20260112-112421894.png" group-title="Türkiyə",ÜLKE TV ᵏᵃᵑᵏᵃ
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/DZjLRSyK/In-Shot-20260503-071238894.png" group-title="Türkiyə",İLKE TV ᵏᵃᵑᵏᵃ
@@ -680,7 +680,7 @@ https://yayin30.haber100.com/live/finansturk/chunklist_w377520896.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/dt4nRr5f/In-Shot-20260112-113328700.png" group-title="Türkiyə",BENGÜ TÜRK ᵏᵃᵑᵏᵃ
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/9MmrBR88/In-Shot-20260112-113605923.png" group-title="Türkiyə",TV5 ᵏᵃᵑᵏᵃ
-http://umperisn.mywire.org/index.php?id=2967&token=DeaTHLesS
+http://82.70.45.131/Uyan.php?ID=TV5
 #EXTINF:0 tvg-logo="https://i.postimg.cc/vT6M7GsP/In-Shot-20260112-113749325.png" group-title="Türkiyə",LİDER HABER ᵏᵃᵑᵏᵃ
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pXSprr3n/In-Shot-20260506-194743775.png" group-title="Türkiyə",TV TÜRK HABER ᵏᵃᵑᵏᵃ
@@ -1372,17 +1372,16 @@ https://andro.okan9gote10sokan.cfd/checklist/androstreamlivees1.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1T5PnrC/In-Shot-20260127-131112453.png" group-title="Türkiyə",EUROSPORT 2  ᵏᵃᵑᵏᵃ
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivees2.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PfFkhpRR/In-Shot-20251020-133139747.png" group-title="Türkiyə",BEİNSPORTS 1★ ᵏᵃᵑᵏᵃ
-https://corestream.siteyaptim.live/bein1/index.m3u8
+https://corestream.ardastream.live//beintv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PfFkhpRR/In-Shot-20251020-133139747.png" group-title="Türkiyə",BEİNSPORTS 2★ ᵏᵃᵑᵏᵃ
-https://corestream.siteyaptim.live/bein2/index.m3u8
+https://corestream.ardastream.live//bein2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PfFkhpRR/In-Shot-20251020-133139747.png" group-title="Türkiyə",BEİNSPORTS 3★ ᵏᵃᵑᵏᵃ
-https://corestream.siteyaptim.live/bein3/index.m3u8
+https://corestream.ardastream.live//bein3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PfFkhpRR/In-Shot-20251020-133139747.png" group-title="Türkiyə",BEİNSPORTS 4★ ᵏᵃᵑᵏᵃ
-https://corestream.siteyaptim.live/bein4/index.m3u8
+https://corestream.ardastream.live//bein4/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PfFkhpRR/In-Shot-20251020-133139747.png" group-title="Türkiyə",BEİNSPORTS 5★ ᵏᵃᵑᵏᵃ
-https://corestream.siteyaptim.live/bein5/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/3wdTzYMC/In-Shot-20260531-184451492.png" group-title="Türkiyə",MACKOLIK ᵏᵃᵑᵏᵃ
-https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8
+https://corestream.ardastream.live//bein5/tracks-v1a1/mono.m3u8
+
 
 
 
