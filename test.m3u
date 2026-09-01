@@ -1,3 +1,5 @@
+#EXTINF:0 tvg-logo="" group-title="UYARI‼️‼️‼️", ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/info.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/LsYk79fM/In-Shot-20251215-145341687.png" group-title="Azərbaycan",24.08.26 ᵏᵃᵑᵏᵃ
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/MHP8T5XB/In-Shot-20260126-135724654.png" group-title="Azərbaycan",https://t.me/kankatv ᵏᵃᵑᵏᵃ
@@ -4199,21 +4201,21 @@ http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
 http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Mix ᵏᵃᵑᵏᵃ
 http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
-#EXTINF:0 tvg-logo="" group-title="CINEMA PLUS ",PG Premium ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",PG Premium ᵏᵃᵑᵏᵃ
 http://hls127.freeott.top:8080/PG_Premium_HD/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="CINEMA PLUS ",PG Premiere ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",PG Premiere ᵏᵃᵑᵏᵃ
 http://hls127.freeott.top:8080/PG_Premiere_HD/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="CINEMA PLUS ",PG Paradise ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",PG Paradise ᵏᵃᵑᵏᵃ
 http://hls127.freeott.top:8080/PG_Paradise_HD/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="CINEMA PLUS ",PG Thriller ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",PG Thriller ᵏᵃᵑᵏᵃ
 http://hls127.freeott.top:8080/PG_Thriller_HD/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="CINEMA PLUS ",PG Paradox ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",PG Paradox ᵏᵃᵑᵏᵃ
 http://hls127.freeott.top:8080/PG_Paradox_HD/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="CINEMA PLUS ",PG USSR ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",PG USSR ᵏᵃᵑᵏᵃ
 http://hls127.freeott.top:8080/PG_USSR_HD/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="CINEMA PLUS ",PG VHS ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",PG VHS ᵏᵃᵑᵏᵃ
 http://hls127.freeott.top:8080/PG_VHS_HD/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="CINEMA PLUS ",PG Insomnia ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",PG Insomnia ᵏᵃᵑᵏᵃ
 http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
 
 
