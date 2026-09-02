@@ -16,26 +16,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download latest M3U files
+      - name: Download latest M3U file
         run: |
           curl -L --fail --retry 3 \
           "https://dl.dropboxusercontent.com/scl/fi/0h8tyzzzubhmepl9gzx1m/kanka.m3u?rlkey=4gdlpapjunpneo5w7k3h2z1qj&st=tdbbbca0.m3u" \
           -o test.m3u
-
-          curl -L --fail --retry 3 \
-          "https://dl.dropboxusercontent.com/scl/fi/d6dstbvobt3dclm8j24ue/DIMAN.m3u?rlkey=4n46mz7somr5byadk4ggne66w&st=q78au7y0&dl=0" \
-          -o test1.m3u
 
       - name: Commit only if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add test.m3u test1.m3u
+          git add test.m3u
 
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Update M3U files"
+            git commit -m "Update test.m3u"
             git push
           fi
