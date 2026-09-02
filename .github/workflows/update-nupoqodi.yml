@@ -1,4 +1,4 @@
-name: Update Nu Pogodi YouTube Live
+name: Update YouTube Live Streams
 
 on:
   schedule:
@@ -31,7 +31,8 @@ jobs:
         run: |
           printf '%s' "$YOUTUBE_COOKIES" > cookies.txt
 
-      - name: Get YouTube Live URL
+      # ===== 1-ci YAYIM =====
+      - name: Update Nu Pogodi
         shell: bash
         run: |
           YOUTUBE_URL="https://www.youtube.com/watch?v=rTcMb6C2Nl4"
@@ -44,29 +45,49 @@ jobs:
             -g \
             "$YOUTUBE_URL" | head -n 1)
 
-          if [ -z "$STREAM_URL" ]; then
-            echo "Stream URL tapilmadi."
-            exit 1
+          if [ -n "$STREAM_URL" ]; then
+            printf '#EXTM3U\n#EXTINF:-1,Nu Pogodi\n%s\n' \
+              "$STREAM_URL" > nupogodi.m3u8
+          else
+            echo "Nu Pogodi stream tapilmadi."
           fi
 
-          printf '#EXTM3U\n#EXTINF:-1,Nu Pogodi\n%s\n' \
-            "$STREAM_URL" > nupogodi.m3u8
+      # ===== 2-ci YAYIM =====
+      - name: Update Stream 2
+        shell: bash
+        run: |
+          YOUTUBE_URL="https://www.youtube.com/watch?v=yq_4wXwvngg"
+
+          STREAM_URL=$(yt-dlp \
+            --cookies cookies.txt \
+            --js-runtimes deno \
+            --remote-components ejs:github \
+            -f "best[protocol^=m3u8]/best" \
+            -g \
+            "$YOUTUBE_URL" | head -n 1)
+
+          if [ -n "$STREAM_URL" ]; then
+            printf '#EXTM3U\n#EXTINF:-1,Stream 2\n%s\n' \
+              "$STREAM_URL" > stream2.m3u8
+          else
+            echo "Stream 2 tapilmadi."
+          fi
 
       - name: Delete cookies
         if: always()
         run: |
           rm -f cookies.txt
 
-      - name: Commit only if changed
+      - name: Commit updated streams
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "4189823+github-actions[bot]@users.noreply.github.com"
 
-          git add nupogodi.m3u8
+          git add nupogodi.m3u8 stream2.m3u8
 
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Update Nu Pogodi stream"
+            git commit -m "Update YouTube live streams"
             git push
           fi
