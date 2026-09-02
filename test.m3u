@@ -737,7 +737,7 @@ https://edge.taksimbilisim.com/belemturktv/bant1/playlist.m3u8
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/855KHq58/In-Shot-20260807-203143288.png" group-title="Türkiyə",TV 3 ᵏᵃᵑᵏᵃ
 https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/K8gdj4F9/In-Shot-20250511-132811122.png" group-title="Türkiyə",DIZI TV ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Lsqyt9QW/In-Shot-20260901-195916738.png" group-title="Türkiyə", TRT NOSTALJI ᵏᵃᵑᵏᵃ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/0jK4pKpT/Kanal-D2-2023-n-v.webp"group-title="Türkiyə",KANAL D2 ᵏᵃᵑᵏᵃ
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
@@ -747,6 +747,8 @@ https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 http://boztv.smartiptvworld.workers.dev/ctv.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/HsY46nFr/In-Shot-20251214-120450045.png"group-title="Türkiyə",ŞABAN TV ᵏᵃᵑᵏᵃ
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
+#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png"group-title="Türkiyə",DIZI TV ᵏᵃᵑᵏᵃ
+http://82.70.45.131/Antena.php?ID=406
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/02GM2TTR/In-Shot-20260404-195317248.png"group-title="Türkiyə",Boncuk TV ᵏᵃᵑᵏᵃ
 http://104.238.23.191/BoncukTV/live/index.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/y8gV2XJj/In-Shot-20251225-192536560.png"group-title="Türkiyə",EKOL TV ᵏᵃᵑᵏᵃ
@@ -763,6 +765,16 @@ http://boztv.smartiptvworld.workers.dev/ysmtvmedya.m3u8
 http://boztv.smartiptvworld.workers.dev/ymmusictv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/BnYCpP6k/In-Shot-20250911-180524171.png" group-title="Türkiyə",YANSIMA NOSTALJI ᵏᵃᵑᵏᵃ
 http://boztv.smartiptvworld.workers.dev/ymdanstv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/BvdZBC48/In-Shot-20260901-213751333.png" group-title="Türkiyə",ZEM TV sinema ᵏᵃᵑᵏᵃ
+http://zemtv.duckdns.org:80/ZEMTV/live/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/BvdZBC48/In-Shot-20260901-213751333.png" group-title="Türkiyə",ZEM TV aksiyon ᵏᵃᵑᵏᵃ
+http://zemtv.duckdns.org:80/Aksiyoncu/live/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/BvdZBC48/In-Shot-20260901-213751333.png" group-title="Türkiyə",ZEM TV aile ᵏᵃᵑᵏᵃ
+http://zemtv.duckdns.org:80/Ailem/live/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/BvdZBC48/In-Shot-20260901-213751333.png" group-title="Türkiyə",ZEM TV çocuk ᵏᵃᵑᵏᵃ
+http://zemtv.duckdns.org:80/Cocuklar/live/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/BvdZBC48/In-Shot-20260901-213751333.png" group-title="Türkiyə",ZEM TV belgesel ᵏᵃᵑᵏᵃ
+http://zemtv.duckdns.org:80/Belgeselim/live/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/J4wNzmm8/In-Shot-20260830-191426734.png" group-title="Türkiyə",DENGE MOVIE TV ᵏᵃᵑᵏᵃ
 http://162.212.179.32/akamaissh101/ssh101/movietv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/MKxnLGqK/In-Shot-20260830-191951456.png" group-title="Türkiyə",NATIVE TV ᵏᵃᵑᵏᵃ
