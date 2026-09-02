@@ -781,6 +781,8 @@ http://162.212.179.32/akamaissh101/ssh101/movietv/chunks.m3u8
 http://162.212.179.32/akamaissh101/ssh101/nativetv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/44wGJ4pn/In-Shot-20260830-192346992.png" group-title="Türkiyə",TTV ᵏᵃᵑᵏᵃ
 https://a8.radyotelekom.com.tr:3170/stream/play.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/VvzDpsTk/In-Shot-20260902-211145606.png" group-title="Türkiyə",FIX ᵏᵃᵑᵏᵃ
+https://boztv.smartiptvworld.workers.dev/fixtv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/g2sthrkY/In-Shot-20260830-193113763.png" group-title="Türkiyə",MAX YERLİ ᵏᵃᵑᵏᵃ
 http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/8cbMYJY7/In-Shot-20260830-193440041.png" group-title="Türkiyə",MAX PREMİER ᵏᵃᵑᵏᵃ
