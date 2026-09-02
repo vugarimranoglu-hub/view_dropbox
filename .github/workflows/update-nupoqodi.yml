@@ -25,65 +25,55 @@ jobs:
         run: |
           python -m pip install -U "yt-dlp[default]"
 
-      - name: Create cookies file
-        env:
-          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
-        run: |
-          printf '%s' "$YOUTUBE_COOKIES" > cookies.txt
-
-      # ===== 1-ci YAYIM =====
       - name: Update Nu Pogodi
         shell: bash
+        continue-on-error: true
         run: |
-          YOUTUBE_URL="https://www.youtube.com/watch?v=rTcMb6C2Nl4"
+          URL="https://www.youtube.com/watch?v=rTcMb6C2Nl4"
 
           STREAM_URL=$(yt-dlp \
-            --cookies cookies.txt \
             --js-runtimes deno \
             --remote-components ejs:github \
+            --extractor-args "youtube:player_client=web_safari" \
             -f "best[protocol^=m3u8]/best" \
-            -g \
-            "$YOUTUBE_URL" | head -n 1)
+            -g "$URL" | head -n 1)
 
           if [ -n "$STREAM_URL" ]; then
             printf '#EXTM3U\n#EXTINF:-1,Nu Pogodi\n%s\n' \
               "$STREAM_URL" > nupogodi.m3u8
           else
-            echo "Nu Pogodi stream tapilmadi."
+            echo "Nu Pogodi URL tapilmadi"
+            exit 1
           fi
 
-      # ===== 2-ci YAYIM =====
       - name: Update Stream 2
         shell: bash
+        continue-on-error: true
         run: |
-          YOUTUBE_URL="https://www.youtube.com/watch?v=yq_4wXwvngg"
+          URL="https://www.youtube.com/watch?v=yq_4wXwvngg"
 
           STREAM_URL=$(yt-dlp \
-            --cookies cookies.txt \
             --js-runtimes deno \
             --remote-components ejs:github \
+            --extractor-args "youtube:player_client=web_safari" \
             -f "best[protocol^=m3u8]/best" \
-            -g \
-            "$YOUTUBE_URL" | head -n 1)
+            -g "$URL" | head -n 1)
 
           if [ -n "$STREAM_URL" ]; then
             printf '#EXTM3U\n#EXTINF:-1,Stream 2\n%s\n' \
               "$STREAM_URL" > stream2.m3u8
           else
-            echo "Stream 2 tapilmadi."
+            echo "Stream 2 URL tapilmadi"
+            exit 1
           fi
-
-      - name: Delete cookies
-        if: always()
-        run: |
-          rm -f cookies.txt
 
       - name: Commit updated streams
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "4189823+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add nupogodi.m3u8 stream2.m3u8
+          [ -f nupogodi.m3u8 ] && git add nupogodi.m3u8
+          [ -f stream2.m3u8 ] && git add stream2.m3u8
 
           if git diff --cached --quiet; then
             echo "No changes"
