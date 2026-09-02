@@ -1,0 +1,66 @@
+name: Update Nu Pogodi YouTube Live
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: latest
+
+      - name: Install latest yt-dlp
+        run: |
+          python -m pip install -U "yt-dlp[default]"
+
+      - name: Get YouTube Live URL
+        shell: bash
+        run: |
+          YOUTUBE_URL="https://www.youtube.com/watch?v=rTcMb6C2Nl4"
+
+          STREAM_URL=$(yt-dlp \
+            --js-runtimes deno \
+            --remote-components ejs:github \
+            --extractor-args "youtube:player_client=ios,web" \
+            -f "best[protocol^=m3u8]/best" \
+            -g \
+            "$YOUTUBE_URL" | head -n 1)
+
+          if [ -z "$STREAM_URL" ]; then
+            echo "YouTube stream URL tapılmadı."
+            exit 1
+          fi
+
+          cat > nupogodi.m3u8 <<EOF
+          #EXTM3U
+          #EXTINF:-1,Ну, погоди!
+          $STREAM_URL
+          EOF
+
+          echo "Yeni stream URL alındı."
+
+      - name: Commit only if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add nupogodi.m3u8
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update Nu Pogodi YouTube stream"
+            git push
+          fi
