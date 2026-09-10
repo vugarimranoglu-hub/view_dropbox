@@ -612,19 +612,19 @@ http://82.70.45.131/Uyan.php?ID=TRT Belgesel
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SRBXF6Dy/TGRT-Belgesel-logo.png" group-title="Türkiyə",TGRT BELGESEL ᵏᵃᵑᵏᵃ
 http://82.70.45.131/Uyan.php?ID=TGRT Belgesel
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqnbkVy3/In-Shot-20251210-111920820.png" group-title="Türkiyə",TARİH TV ᵏᵃᵑᵏᵃ
-https://vavoo.biz-az.workers.dev/play/385695705243789b6f2c45.m3u8
+http://176.65.153.7:6003/play/a035/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqyrBMLN/In-Shot-20260102-231141578.png" group-title="Türkiyə",BBC EARTH ᵏᵃᵑᵏᵃ
 http://88.99.165.164:6878/ace/getstream?id=95e8ae652b5f5fa653be611aaac2f736dcf67ba2&pid=5172
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NF6gk7wt/In-Shot-20260102-231456174.png" group-title="Türkiyə",LOVE NATURE ᵏᵃᵑᵏᵃ
 http://176.65.153.7:6002/play/a03p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tT0QvZkG/In-Shot-20260102-231626031.png" group-title="Türkiyə",VİASAT HİSTORY ᵏᵃᵑᵏᵃ
-https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
+http://176.65.153.7:6003/play/a02f/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/qMH8VfSx/In-Shot-20260524-153143809.png" group-title="Türkiyə",VİASAT EXPLORE ᵏᵃᵑᵏᵃ
 http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
 #EXTINF:0 tvg-logo="https://i.postimg.cc/yNrKNHFV/In-Shot-20260111-160438896.png" group-title="Türkiyə",DISCOVERY CHANNEL ᵏᵃᵑᵏᵃ
 http://88.99.165.164:6878/ace/getstream?id=1534834fc65764c8eaca43cf108e0b49158d8c68&pid=28538
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Wb7Q3VvK/In-Shot-20260111-160647988.png" group-title="Türkiyə",INVESTIGATION DISCOVERY ᵏᵃᵑᵏᵃ
-https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
+http://176.65.153.7:6003/play/a02o/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FshXNX4q/In-Shot-20260127-125514615.png" group-title="Türkiyə",NATIONAL GEOGRAPHIC ᵏᵃᵑᵏᵃ
 https://oevladi.testworker0y.workers.dev/channel/TmF0aW9uYWwgR2VvZ3JhcGhpYw==?token=ad505df5bc15a3079c416b18091c2c7b
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Pf41V1rt/In-Shot-20260127-124426100.png" group-title="Türkiyə",NATIONAL GEOGRAPHIC WILD ᵏᵃᵑᵏᵃ
@@ -637,6 +637,8 @@ https://vavoo.biz-az.workers.dev/play/9503946568377e1ba14c8.m3u8
 http://umperisn.mywire.org/index.php?id=594650&token=DeaTHLesS
 #EXTINF:0 tvg-logo="https://i.postimg.cc/d3YHCDqw/In-Shot-20260708-194702693.png" group-title="Türkiyə",VIZON WILD ᵏᵃᵑᵏᵃ
 http://82.70.45.131/Uyan.php?ID=Belgesel TV
+#EXTINF:0 tvg-logo="https://i.postimg.cc/V654CP20/In-Shot-20260910-192546627.png" group-title="Türkiyə",COSMO EN ᵏᵃᵑᵏᵃ
+http://176.65.153.7:6002/play/a03l/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/KYzcP8nm/In-Shot-20260807-204757753.png" group-title="Türkiyə",AGRO TV ᵏᵃᵑᵏᵃ
 http://176.65.153.7:6002/play/a04l/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HnL27N4V/In-Shot-20260112-101609642.png" group-title="Türkiyə",TRT HABER ᵏᵃᵑᵏᵃ
@@ -744,7 +746,7 @@ https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sXTpJLrs/In-Shot-20260127-231339276.png"group-title="Türkiyə",KANAL D romania ᵏᵃᵑᵏᵃ
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/8cC8DBq0/In-Shot-20260808-145231389.png"group-title="Türkiyə",CTV ᵏᵃᵑᵏᵃ
-http://boztv.smartiptvworld.workers.dev/ctv.m3u8
+https://boztv.smartiptvworld.workers.dev/kanalc.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/HsY46nFr/In-Shot-20251214-120450045.png"group-title="Türkiyə",ŞABAN TV ᵏᵃᵑᵏᵃ
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png"group-title="Türkiyə",DIZI TV ᵏᵃᵑᵏᵃ
@@ -813,14 +815,16 @@ https://boztv.smartiptvworld.workers.dev/teber_5.m3u8
 https://boztv.smartiptvworld.workers.dev/teber_6.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/xC0rjq7X/In-Shot-20260823-075420672.png" group-title="Türkiyə",TEBER 7 ᵏᵃᵑᵏᵃ
 https://boztv.smartiptvworld.workers.dev/teber_7.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xC0rjq7X/In-Shot-20260823-075420672.png" group-title="Türkiyə",TEBER 8 ᵏᵃᵑᵏᵃ
+https://boztv.smartiptvworld.workers.dev/teber_doga.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SxbqDbJg/In-Shot-20260501-200431808.png" group-title="Türkiyə",TELEON ᵏᵃᵑᵏᵃ
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3x17mQj8/In-Shot-20260527-200622950.png" group-title="Türkiyə",KANAL 30 ᵏᵃᵑᵏᵃ
 http://162.212.179.32:80/akamaissh101/ssh101/kanal30/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/fbYCT9Pb/In-Shot-20260817-082222489.png" group-title="Türkiyə",F MAX ᵏᵃᵑᵏᵃ
 http://162.212.179.32/akamaissh101/ssh101/kanalfmax/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/c6qm6NVS/In-Shot-20260818-182657138.png" group-title="Türkiyə",F SİNEMA ᵏᵃᵑᵏᵃ
-http://162.212.179.32/akamaissh101/ssh101/fogtvfmedya/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/c6qm6NVS/In-Shot-20260818-182657138.png" group-title="Türkiyə",KANAL G ᵏᵃᵑᵏᵃ
+https://boztv.smartiptvworld.workers.dev/kanalfmedya.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/0jy0fHyz/In-Shot-20260817-082059850.png" group-title="Türkiyə",FUSİON ᵏᵃᵑᵏᵃ
 http://162.212.179.32/akamaissh101/ssh101/084952510aa/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/4dVJyys2/In-Shot-20260824-211957025.png" group-title="Türkiyə",Kemal Sunal ᵏᵃᵑᵏᵃ
@@ -862,27 +866,27 @@ https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 #EXTINF:0 tvg-id="sinematv" tvg-name="Sinema Tv" tvg-logo="https://img.dsmartgo.com.tr/content/T/QU/22894/Thumbnail.png" group-title="Türkiyə",Sinema Tv ᵏᵃᵑᵏᵃ
 https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
 #EXTINF:0 tvg-id="sinematv2" tvg-name="Sinema Tv 2" tvg-logo="https://img.dsmartgo.com.tr/content/Y/3N/22904/Thumbnail.png" group-title="Türkiyə",Sinema Tv 2 ᵏᵃᵑᵏᵃ
-https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
-#EXTINF:0 tvg-id="sinemaaile" tvg-name="Sinema Aile" tvg-logo="https://img.dsmartgo.com.tr/content/-/EU/22897/Thumbnail.png" group-title="Türkiyə",Sinema Aile ᵏᵃᵑᵏᵃ
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8
+http://176.65.153.7:6004/play/a026/index.m3u8
+#EXTINF:0 tvg-id="sinemaaile" tvg-name="Sinema Aile" tvg-logo="https://img.dsmartgo.com.tr/content/-/EU/22897/Thumbnail.png" group-title="Türkiyə",Sinema Aile 2 ᵏᵃᵑᵏᵃ
+http://176.65.153.7:6003/play/a024/index.m3u8
 #EXTINF:0 tvg-id="sinemaaksiyon" tvg-name="Sinema Aksiyon" tvg-logo="https://img.dsmartgo.com.tr/content/t/tD/22896/Thumbnail.png" group-title="Türkiyə",Sinema Aksiyon ᵏᵃᵑᵏᵃ
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
+http://176.65.153.7:6004/play/a023/index.m3u8
 #EXTINF:0 tvg-id="sinemaaksiyon2" tvg-name="Sinema Aksiyon 2" tvg-logo="https://img.dsmartgo.com.tr/content/M/RG/22895/Thumbnail.png" group-title="Türkiyə",Sinema Aksiyon 2 ᵏᵃᵑᵏᵃ
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8
+http://176.65.153.7:6003/play/a022/index.m3u8
 #EXTINF:0 tvg-id="sinemakomedi" tvg-name="Sinema Komedi" tvg-logo="https://img.dsmartgo.com.tr/content/w/9a/22899/Thumbnail.png" group-title="Türkiyə",Sinema Komedi ᵏᵃᵑᵏᵃ
-https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
+http://176.65.153.7:6003/play/a025/index.m3u8
 #EXTINF:0 tvg-id="sinemakomedi2" tvg-name="Sinema Komedi 2" tvg-logo="https://img.dsmartgo.com.tr/content/o/oG/22900/Thumbnail.png" group-title="Türkiyə",Sinema Komedi 2 ᵏᵃᵑᵏᵃ
-https://kiloyapar.denek1544.workers.dev/channel/U2luZW1hIFRWIEtvbWVkaSAy.m3u8
+http://176.65.153.7:6003/play/a026/index.m3u8
 #EXTINF:0 tvg-id="sinematv1001" tvg-name="Sinema Tv 1001" tvg-logo="https://img.dsmartgo.com.tr/content/g/6y/22901/Thumbnail.png" group-title="Türkiyə",Sinema Tv 1001 ᵏᵃᵑᵏᵃ
-https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
+http://176.65.153.7:6003/play/a027/index.m3u8
 #EXTINF:0 tvg-id="sinematv1002" tvg-name="Sinema Tv 1002" tvg-logo="https://img.dsmartgo.com.tr/content/C/XZ/22902/Thumbnail.png" group-title="Türkiyə",Sinema Tv 1002 ᵏᵃᵑᵏᵃ
-https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Xqw0CVWP/In-Shot-20260814-153020970.png" group-title="Türkiyə",FİX CİNEMA action ᵏᵃᵑᵏᵃ
-https://vavoo.biz-az.workers.dev/play/140294889ef11a15f32eb.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Xqw0CVWP/In-Shot-20260814-153020970.png" group-title="Türkiyə",FİX CİNEMA bilimkurgu ᵏᵃᵑᵏᵃ
-https://vavoo.biz-az.workers.dev/play/24802319264c5d11fe49e6.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Xqw0CVWP/In-Shot-20260814-153020970.png" group-title="Türkiyə",FİX CİNEMA comedy ᵏᵃᵑᵏᵃ
-https://vavoo.biz-az.workers.dev/play/414072086965e52948e1d1.m3u8
+http://176.65.153.7:6003/play/a028/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Xqw0CVWP/In-Shot-20260814-153020970.png" group-title="Türkiyə",MOVIE action ᵏᵃᵑᵏᵃ
+http://176.65.153.7:6003/play/a02l/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Xqw0CVWP/In-Shot-20260814-153020970.png" group-title="Türkiyə",MOVIE turk ᵏᵃᵑᵏᵃ
+http://176.65.153.7:6003/play/a02m/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Xqw0CVWP/In-Shot-20260814-153020970.png" group-title="Türkiyə",DIZISMART max ᵏᵃᵑᵏᵃ
+http://176.65.153.7:6003/play/a02p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Xqw0CVWP/In-Shot-20260814-153020970.png" group-title="Türkiyə",FİX CİNEMA dram ᵏᵃᵑᵏᵃ
 https://vavoo.biz-az.workers.dev/play/2830763591413889afebff.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Xqw0CVWP/In-Shot-20260814-153020970.png" group-title="Türkiyə",FİX CİNEMA fantastic ᵏᵃᵑᵏᵃ
@@ -904,7 +908,7 @@ http://lefanten.com:8080/NWJLZ0UwRTY4MC9XUHVDY0d6bHJoY24yZ1Z4cU1Ja3lQdlFlaVZRamt
 #EXTINF:0 tvg-logo="https://i.postimg.cc/T3kb7cgj/In-Shot-20251214-115101076.png" group-title="Türkiyə",KADIRGA TV ᵏᵃᵑᵏᵃ
 http://176.65.153.26:6005/play/a01c/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Zn02NH82/In-Shot-20251214-115802475.png" group-title="Türkiyə",KOZA TV ᵏᵃᵑᵏᵃ
-http://176.65.153.23:6001/play/a01f/index.m3u8
+http://176.65.153.91:6001/play/a00a/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sfTGxqyg/In-Shot-20260418-070111725.png" group-title="Türkiyə",HRT ᵏᵃᵑᵏᵃ
 http://umperisn.mywire.org:80/index.php?id=2970&token=DeaTHLesS
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sxNrwqsr/In-Shot-20260817-095400357.png" group-title="Türkiyə",tv KAYSERI ᵏᵃᵑᵏᵃ
@@ -1048,11 +1052,11 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rFHyrK33/In-Shot-20260629-184228284.png" group-title="Türkiyə",KÖY TV ᵏᵃᵑᵏᵃ
 http://82.70.45.131/Uyan.php?ID=Koy TV
 #EXTINF:0 tvg-logo="https://i.postimg.cc/W1XyVzcn/In-Shot-20260813-093630412.png" group-title="Türkiyə",TARIM TV ᵏᵃᵑᵏᵃ
-http://176.65.153.26:6005/play/a01w/index.m3u8
+http://176.65.153.7:6005/play/a02j/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/W45XBHgh/In-Shot-20260813-091839508.png" group-title="Türkiyə",EKİN TV ᵏᵃᵑᵏᵃ
 https://ekintv.net/hls/ekintv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HW6dSYVX/In-Shot-20260813-092700962.png" group-title="Türkiyə",RUMELİ TV ᵏᵃᵑᵏᵃ
-https://rumelitv-live.ercdn.net/rumelitv/rumelitv.m3u8
+http://176.65.153.12:6004/play/a01v/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/KzY4Pzd0/In-Shot-20251103-181453406.png" group-title="Türkiyə",KON TV ᵏᵃᵑᵏᵃ
 http://82.70.45.131/Uyan.php?ID=KONTV
 #EXTINF:0 tvg-logo="https://i.postimg.cc/K8jcTcCs/In-Shot-20260119-154357067.png" group-title="Türkiyə",ERTV ᵏᵃᵑᵏᵃ
@@ -1149,6 +1153,8 @@ https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 https://streams.uzunmuhalefet.com/stream/a13666c2-87a4-402c-824d-eba606e8733c.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/6pDdY64Q/In-Shot-20260629-185324877.png" group-title="Türkiyə",TEK RUMELİ TV ᵏᵃᵑᵏᵃ
 https://telase.com.tr/garaveli/live/telase/telase/165.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/6pDdY64Q/In-Shot-20260629-185324877.png" group-title="Türkiyə",TEK RUMELİ ᵏᵃᵑᵏᵃ
+http://176.65.153.12:6005/play/a03f/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/B6ypFDsD/In-Shot-20251212-210356467.png" group-title="Türkiyə",KRT ᵏᵃᵑᵏᵃ
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Krt.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/W3rwbsfz/In-Shot-20260814-110756067.png" group-title="Türkiyə",METROPOL TV ᵏᵃᵑᵏᵃ
@@ -1300,7 +1306,7 @@ https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/ahmet
 #EXTINF:0 tvg-logo="https://i.postimg.cc/fyyNBWVp/In-Shot-20260616-203804874.png"group-title="Türkiyə",Medya tv ᵏᵃᵑᵏᵃ
 https://live.euromediacenter.com/medyatv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/hG8QSphd/In-Shot-20260817-144012282.png"group-title="Türkiyə",YILDIZ EN ᵏᵃᵑᵏᵃ
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1796074&extension=ts&play_token=zEeHHJFUyU
+http://176.65.153.91:6003/play/a00d/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/V68NjzjJ/s273848g.png" group-title="Türkiyə",FİNEST TV ᵏᵃᵑᵏᵃ
 http://media.finest.tv/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sx1c5JhM/In-Shot-20260309-113739867.png" group-title="Türkiyə",EZGİ TV ᵏᵃᵑᵏᵃ
@@ -1362,7 +1368,7 @@ http://umperisn.mywire.org/index.php?id=481408&token=DeaTHLesS
 #EXTINF:0 tvg-id="disneyjunior" tvg-name="Disney Junior" tvg-logo="https://i.postimg.cc/t4SJvgcc/In-Shot-20260511-103349123.png" group-title="Türkiyə",CARTOONITO ᵏᵃᵑᵏᵃ
 http://umperisn.mywire.org/index.php?id=593150&token=DeaTHLesS
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PxjYTHGj/In-Shot-20260125-223747094.png" group-title="Türkiyə",BEİN SPORTS HABER ᵏᵃᵑᵏᵃ
-http://82.70.45.131/Giniko.php?ID=944
+http://176.65.153.7:6003/play/a038/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7LPCPpdP/In-Shot-20251006-145756389.png" group-title="Türkiyə",A SPOR ᵏᵃᵑᵏᵃ
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Gm5VXgcq/In-Shot-20251004-192608555.png" group-title="Türkiyə",Sıfır TV ᵏᵃᵑᵏᵃ
