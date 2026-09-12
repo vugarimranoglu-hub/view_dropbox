@@ -106,8 +106,6 @@ https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 https://premiumiptv.bykerimoff.workers.dev/stream/nowmusic.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/63Tsp4Ht/In-Shot-20260504-105803367.png" group-title="Azərbaycan",AZ music 4 ᵏᵃᵑᵏᵃ
 https://pastebin.com/raw/jNXbkKuR
-#EXTINF:0 tvg-logo="https://i.postimg.cc/XYtqnKwX/In-Shot-20260701-194731328.png" group-title="Azərbaycan",GEM AZ ᵏᵃᵑᵏᵃ
-http://tv.smartglwiz.workers.dev/ID=GemAZ_HD
 #EXTINF:0 tvg-logo="https://i.postimg.cc/DwZXkgsV/In-Shot-20260105-102529648.png" group-title="Azərbaycan",LİVE TV ᵏᵃᵑᵏᵃ
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png" group-title="Azərbaycan",KƏPƏZ TV ᵏᵃᵑᵏᵃ
@@ -115,9 +113,7 @@ http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/WbDzWXbq/In-Shot-20260806-202852487.png" group-title="Azərbaycan",RIHAT TV ᵏᵃᵑᵏᵃ
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/ZR2Xs5pL/In-Shot-20260807-184054897.png" group-title="Azərbaycan",SIMVOL ᵏᵃᵑᵏᵃ
-https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/9z5Q9w49/In-Shot-20260624-204028182.png" group-title="Azərbaycan",atv cinema ᵏᵃᵑᵏᵃ
-http://95.216.112.250/9128/index.m3u8
+https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/KYvDsfdB/logo.png" group-title="Azərbaycan",VİLAYƏT TV ᵏᵃᵑᵏᵃ
 https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/DZGJCby1/logo-hadi-tv.png" group-title="Azərbaycan",HADİ TV ᵏᵃᵑᵏᵃ
@@ -150,8 +146,6 @@ https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN HD ᵏᵃᵑᵏᵃ
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN HİT ᵏᵃᵑᵏᵃ
-https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN PLUS ᵏᵃᵑᵏᵃ
 https://cdn4.yayin.com.tr/musicplus/video.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png" group-title="Azərbaycan",EL TV ᵏᵃᵑᵏᵃ
@@ -166,28 +160,18 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 https://a8.radyotelekom.com.tr:3800/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/5N4mghBq/In-Shot-20260510-202245174.png" group-title="Azərbaycan",DigiNET cinemaᵏᵃᵑᵏᵃ
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/BbWfvvFG/IMG-20260405-094134-027.jpg" group-title="Azərbaycan",STV sinema ᵏᵃᵑᵏᵃ
-https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png" group-title="Azərbaycan",Tom and Jerry ᵏᵃᵑᵏᵃ
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/mr8vgLrr/Adsiz-tasarim-4.png" group-title="Azərbaycan",KN TV ᵏᵃᵑᵏᵃ
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/4xYGZ7SD/In-Shot-20251113-210612919.png" group-title="Azərbaycan",SİRİUS TV ᵏᵃᵑᵏᵃ
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/3rpC6f5x/IMG-20260227-193700-542.jpg" group-title="Azərbaycan",GƏNCƏ TV ᵏᵃᵑᵏᵃ
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
+https://streamsat.siriushdtv-onlineclap.workers.dev/siriustvhd.m3u8
+#EXTINF:0 tvg-logo="" group-title="Azərbaycan",İSMAYILLI TV ᵏᵃᵑᵏᵃ
+https://a8.radyotelekom.com.tr:3170/hybrid/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/qBNd5CY7/In-Shot-20260807-115055814.png" group-title="Azərbaycan",AQLVOY ᵏᵃᵑᵏᵃ
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/T2Stvqb2/In-Shot-20260301-114437616.png" group-title="Azərbaycan",FİDAN(uşaq) ᵏᵃᵑᵏᵃ
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
-#EXTINF:0 tvg-logo="https://i.postimg.cc/tgvD0SVZ/In-Shot-20251222-154409849.png" group-title="Azərbaycan",SETANTA GEORGIA 1 ᵏᵃᵑᵏᵃ
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:0 tvg-logo="https://i.postimg.cc/tgvD0SVZ/In-Shot-20251222-154409849.png" group-title="Azərbaycan",SETANTA GEORGIA 2 ᵏᵃᵑᵏᵃ
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-#EXTINF:0 tvg-logo="https://i.postimg.cc/tgvD0SVZ/In-Shot-20251222-154409849.png" group-title="Azərbaycan",SETANTA GEORGIA 3 ᵏᵃᵑᵏᵃ
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
-#EXTINF:0 tvg-logo="https://i.postimg.cc/15GQpxNr/In-Shot-20260201-155915419.png" group-title="Azərbaycan",CIRQUE DU SOLEIL ᵏᵃᵑᵏᵃ
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Hx4HB0Kh/In-Shot-20260807-102641735.png" group-title="Azərbaycan",GAGSNETWORK ᵏᵃᵑᵏᵃ
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/GpLj4bRp/In-Shot-20260807-102047835.png" group-title="Azərbaycan",CAMERA SMILE ᵏᵃᵑᵏᵃ
