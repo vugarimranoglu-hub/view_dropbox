@@ -526,7 +526,7 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/s
 #EXTINF:0 tvg-logo="https://i.postimg.cc/wxJpCp3P/TRT-4K.webp"group-title="Türkiyə",TRT 4K ᵏᵃᵑᵏᵃ
 https://bstelevision.com/proxy.php?mode=proxy&url=https%3A%2F%2Ftrn03.tulix.tv%2Fgt-trt-4k%2Findex.m3u8%3Ftoken%3D0631e8753bcdf25bb2a5015db22ec082
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FRgvRzbt/In-Shot-20250511-132248185.png" group-title="Türkiyə",TRT 2 ᵏᵃᵑᵏᵃ
-http://umperisn.mywire.org/index.php?id=1846&token=DeaTHLesS
+http://82.70.45.131/Uyan.php?ID=TRT 2
 #EXTINF:0 tvg-logo="https://i.postimg.cc/5tGFB0YB/In-Shot-20260111-083605419.png" group-title="Türkiyə",TRT GENÇ ᵏᵃᵑᵏᵃ
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/YC4FPSR2/In-Shot-20250209-215704320.png" group-title="Türkiyə",TABİİ TV ᵏᵃᵑᵏᵃ
@@ -562,21 +562,21 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/xCQtYmp3/TRT-Avaz.png" group-title="Türkiyə",TRT AVAZ ᵏᵃᵑᵏᵃ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/yxQPFb1L/Euro-Star-loqosu-3-yanvar-2012-indi.png" group-title="Türkiyə",EUROSTAR ᵏᵃᵑᵏᵃ
-https://stream-extractor.koprulu2.workers.dev/?url=https://www.parsatv.com/m/name=Euro-Star&ext=m3u8
+http://82.70.45.131/Uyan.php?ID=EuroStar
 #EXTINF:0 tvg-logo="https://i.postimg.cc/1tW6TVkt/In-Shot-20250209-230714110.png" group-title="Türkiyə",TV8 INT ᵏᵃᵑᵏᵃ
-http://umperisn.mywire.org/index.php?id=1883&token=DeaTHLesS
+http://82.70.45.131/Giniko.php?ID=1132
 #EXTINF:0 tvg-logo="https://i.postimg.cc/gjTVwLs5/logo-v5.png" group-title="Türkiyə",EURO D ᵏᵃᵑᵏᵃ
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/fTV7G5Th/In-Shot-20250209-230201857.png" group-title="Türkiyə",SHOW MAX ᵏᵃᵑᵏᵃ
-http://umperisn.mywire.org/index.php?id=1873&token=DeaTHLesS
+http://82.70.45.131/Uyan.php?ID=Show Max
 #EXTINF:0 tvg-logo="https://i.postimg.cc/P5ZWxxw3/In-Shot-20250209-230304310.png" group-title="Türkiyə",SHOW TURK ᵏᵃᵑᵏᵃ
-http://umperisn.mywire.org/index.php?id=1874&token=DeaTHLesS
+http://82.70.45.131/GLTurk.php?ID=ShowTurk_HD
 #EXTINF:0 tvg-logo="https://i.postimg.cc/ncF7cRJq/In-Shot-20251013-084453821.png" group-title="Türkiyə",KANAL 7 AVRUPA ᵏᵃᵑᵏᵃ
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/P5htk9s7/In-Shot-20251013-085014446.png" group-title="Türkiyə",ATV AVRUPA ᵏᵃᵑᵏᵃ
-http://umperisn.mywire.org/index.php?id=1875&token=DeaTHLesS
+http://82.70.45.131/atvGroup.php?ID=atvavrupa
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rwNf8MqT/In-Shot-20260511-211252154.png" group-title="Türkiyə",TGRT EU ᵏᵃᵑᵏᵃ
-http://umperisn.mywire.org/index.php?id=594199&token=DeaTHLesS
+http://82.70.45.131/Uyan.php?ID=TGRT EU
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rpfQ53gp/In-Shot-20260602-114630306.png" group-title="Türkiyə",KANAL AVRUPA ᵏᵃᵑᵏᵃ
 http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/MH83TN8B/In-Shot-20250923-183637078.png" group-title="Türkiyə",TYT türk ᵏᵃᵑᵏᵃ
@@ -734,7 +734,7 @@ https://boztv.smartiptvworld.workers.dev/kanalc.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/HsY46nFr/In-Shot-20251214-120450045.png"group-title="Türkiyə",ŞABAN TV ᵏᵃᵑᵏᵃ
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png"group-title="Türkiyə",DIZI TV ᵏᵃᵑᵏᵃ
-http://82.70.45.131/Antena.php?ID=406
+http://stream.mcquack.net/46/index.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/02GM2TTR/In-Shot-20260404-195317248.png"group-title="Türkiyə",Boncuk TV ᵏᵃᵑᵏᵃ
 http://104.238.23.191/BoncukTV/live/index.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/y8gV2XJj/In-Shot-20251225-192536560.png"group-title="Türkiyə",EKOL TV ᵏᵃᵑᵏᵃ
@@ -768,7 +768,7 @@ http://162.212.179.32/akamaissh101/ssh101/nativetv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/44wGJ4pn/In-Shot-20260830-192346992.png" group-title="Türkiyə",TTV ᵏᵃᵑᵏᵃ
 https://a8.radyotelekom.com.tr:3170/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/VvzDpsTk/In-Shot-20260902-211145606.png" group-title="Türkiyə",FIX ᵏᵃᵑᵏᵃ
-https://boztv.smartiptvworld.workers.dev/fixtv.m3u8
+https://yayin.venomlink.com/live/mystream/main_stream.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/g2sthrkY/In-Shot-20260830-193113763.png" group-title="Türkiyə",MAX YERLİ ᵏᵃᵑᵏᵃ
 http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/8cbMYJY7/In-Shot-20260830-193440041.png" group-title="Türkiyə",MAX PREMİER ᵏᵃᵑᵏᵃ
@@ -4201,7 +4201,75 @@ http://hls127.freeott.top:8080/PG_USSR_HD/mono.m3u8
 http://hls127.freeott.top:8080/PG_VHS_HD/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",PG Insomnia ᵏᵃᵑᵏᵃ
 http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
-
+#EXTINF:41 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",CineMan
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/349/index.m3u8
+#EXTINF:41 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",CineMan Top
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/350/index.m3u8
+#EXTINF:41 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Cineman Катастрофы
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/471/index.m3u8
+#EXTINF:41 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",CineMan Мелодрама
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/472/index.m3u8
+#EXTINF:41 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",CineMan Action
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/351/index.m3u8
+#EXTINF:41 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",CineMan Thriller
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/352/index.m3u8
+#EXTINF:41 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",CineMan Ужасы
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/355/index.m3u8
+#EXTINF:40 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",CineMan Комедия
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/356/index.m3u8
+#EXTINF:41 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Cineman VHS
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/474/index.m3u8
+#EXTINF:40 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Cineman Лесник
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/115/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Cineman MiniSeries
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/122/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Fresh Rating
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/422/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Fresh Cinema
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/423/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Fresh Premiere
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/424/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Fresh Comedy
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/426/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Fresh Family
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/427/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Fresh VHS
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/428/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Fresh Fantastic
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/429/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Fresh Series
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/430/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Fresh Horror
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/431/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Fresh Adventure
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/432/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Fresh Romantic
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/433/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png",Fresh Thriller
+#EXTGRP:CINEMA PLUS
+http://stream.mcquack.net/434/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3NqGBFTV/In-Shot-20251027-224659476.png" group-title="MUSİC",BARAZA music TV ᵏᵃᵑᵏᵃ
