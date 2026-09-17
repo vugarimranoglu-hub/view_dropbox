@@ -19,7 +19,7 @@ jobs:
       - name: Download latest M3U file
         run: |
           curl -L --fail --retry 3 \
-          "https://dl.dropboxusercontent.com/scl/fi/0h8tyzzzubhmepl9gzx1m/kanka.m3u?rlkey=4gdlpapjunpneo5w7k3h2z1qj&st=tdbbbca0.m3u" \
+          "https://iptv.org.ua/iptv/avto.m3u8" \
           -o test.m3u
 
       - name: Commit only if changed
