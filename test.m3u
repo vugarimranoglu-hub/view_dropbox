@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦28.09.2026|09-10|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-3 🚦28.09.2026|16-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -309,8 +309,6 @@ http://93.170.254.17/Kinomiks/index.m3u8
 https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",МУЖСКОЕ КИНО
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 group-title="KINO+📺",Киносерия
 https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Киносемья
@@ -320,7 +318,7 @@ https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Кинокомедия
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОПОКАЗ
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Техно 24
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",V Kino COMEDY
@@ -392,17 +390,17 @@ http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="KINO+📺",Индийское Кино
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Индия
-http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
+http://5.9.11.197:57419/chu-108/mpegts
 #EXTINF:-1 group-title="KINO+📺",TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Bolt
-http://hls127.freeott.top:8080/Bolt/video.m3u8
 #EXTINF:-1 group-title="KINO+📺",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Amedia 1
-http://hls127.freeott.top:8080/Amedia_1/video.m3u8
+http://5.9.11.197:57419/chu-109/mpegts
+#EXTINF:-1 group-title="KINO+📺",Amedia 1 HD
+http://5.9.11.197:57419/chu-401/mpegts
 #EXTINF:-1 group-title="KINO+📺",Amedia 2
-http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+http://5.9.11.197:57419/chu-402/mpegts
 #EXTINF:-1 group-title="KINO+📺",Amidia Hit HD
 http://194.152.35.17/amedia-hit/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Amedia Hit hd
@@ -443,8 +441,6 @@ https://lbgo.bozztv.com/07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 https://lbgo.bozztv.com/07/ushba64/index.m3u8
 #EXTINF:-1 group-title="KINO+📺" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png" ,Кинозалы 14
 https://lbgo.bozztv.com/07/ushba65/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Наш Киномир
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="KINO+📺",TNT
 https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="KINO+📺",СТС
@@ -477,8 +473,6 @@ http://185.46.16.239:8000/Russkiy_Illyuzion
 http://5.188.221.43:8080/play/Pyatnica
 #EXTINF:-1 group-title="KINO+📺",Пятница 720x576
 http://31.131.141.195:8000/play/2060/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Золотая коллекция
-http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTI RNF:-1 group-title="KINO+📺",M Золотая коллекция 
 http://178.134.1.158:8081/mosfilm/index.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="KINO+📺",Бел 3 HD
@@ -486,7 +480,7 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_slen
 #EXTINF:-1 group-title="KINO+📺",Ретро sd
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Ностальгия 
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
 
 
 #EXTINF:-1 group-title="Україна 🇺🇦",ПЕРШИЙ HD
@@ -1160,12 +1154,6 @@ http://185.46.16.239:8000/Doktor
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
 http://185.46.16.239:8000/Nauka_2.0
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
-http://hls127.freeott.top:8080/NAUKA/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
-http://hls127.freeott.top:8080/RTG_TV/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикий
-http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Animal Planet
 https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery
@@ -1450,16 +1438,6 @@ http://185.46.16.239:8000/National_Geographic_HD
 http://185.46.16.239:8000/Disney_Channel
 #EXTINF:-1 group-title="CHILDREN'S 🧙",Ani
 http://185.46.16.239:8000/Ani
-#EXTINF:-1 group-title="CHILDREN'S 🧙",Бобер
-http://hls127.freeott.top:8080/Bober/video.m3u8
-#EXTINF:-1 group-title="CHILDREN'S 🧙",Da Vinci
-http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
-#EXTINF:-1 group-title="CHILDREN'S 🧙",СТС Kids
-http://hls127.freeott.top:8080/STS_Kids/video.m3u8
-#EXTINF:-1 group-title="CHILDREN'S 🧙",Clarity4K Мультимир
-http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
-#EXTINF:-1 group-title="CHILDREN'S 🧙",Clarity4K Anime
-http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
 #EXTINF:-1 group-title="CHILDREN'S 🧙",Duck TV
 https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CHILDREN'S 🧙",Рыжий
@@ -1644,8 +1622,7 @@ http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
 
 #EXTINF:-1 group-title="Кухня",Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 group-title="Кухня",Кухня ТВ
-http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+
 
 #EXTINF:-1 group-title="RELAX 💐",SCREENSAVER
 http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210273&extension=ts
@@ -2008,76 +1985,6 @@ http://185.46.16.239:8000/Match_Nash_Sport
 http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 group-title="Инет",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
-
-
-#EXTINF:-1 group-title="Cloudflare_Inc",CPS Action HD
-http://hls127.freeott.top:8080/CPS_Action/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",CPS Comedy HD
-http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",CPS Drama HD
-http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",CPS Fiction HD
-http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",CPS Fresh HD
-http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",CPS Investigation
-http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",CPS Jackie Chan HD
-http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",CPS Mix HD
-http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",CPS Anime HD
-http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",CPS Cartoon HD
-http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",CPS Fresh UA HD
-http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",КИНОСЕРИЯ
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",КИНОПОКАЗ
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Кухня ТВ
-http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Хит HD
-http://hls127.freeott.top:8080/XitHD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Наш Киномир
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Ностальгия
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",НСТ
-http://hls127.freeott.top:8080/HCTV/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Про Любовь HD
-http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Amedia 1
-http://hls127.freeott.top:8080/Amedia_1/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Amedia 2
-http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc", Золотая коллекция
-http://hls127.freeott.top:8080/Mosfilm/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",VIP Megahit
-http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Индия
-http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Bolt
-http://hls127.freeott.top:8080/Bolt/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Футбол
-http://hls127.freeott.top:8080/Football/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Матч ТВ
-http://hls127.freeott.top:8080/MATCH_TV/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",RTG TV
-http://hls127.freeott.top:8080/RTG_TV/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Дикий
-http://hls127.freeott.top:8080/Dikiy/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Наука
-http://hls127.freeott.top:8080/NAUKA/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Gags Network
-http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Бобер
-http://hls127.freeott.top:8080/Bober/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Da Vinci
-http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",СТС Kids
-http://hls127.freeott.top:8080/STS_Kids/video.m3u8
 
 
 #EXTINF:-1 group-title="Internet42 LLC", Bollywood HD
